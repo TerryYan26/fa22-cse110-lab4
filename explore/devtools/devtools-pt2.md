@@ -1,0 +1,2 @@
+1. `num1` and `num2` are return to string not int, Therefore `num1 + num2` will be concatenate not the addition.
+2. Using `parseInt()` to change string to int. And `parseInt(num1)+parseInt(num2)` then the result will addition not the concatenate.
